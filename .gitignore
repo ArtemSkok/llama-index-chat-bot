@@ -38,3 +38,5 @@ tool-output/
 
 .env
 !next-env.d.ts
+
+cache/
